@@ -1,0 +1,1 @@
+The results folder contain the best results obtained for the corresponding amount of samples by varying the radius of generalization
